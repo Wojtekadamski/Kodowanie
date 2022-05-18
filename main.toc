@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Wprowadzenie - Co to jest algorytm ElGamala}{2}{section.1}%
+\contentsline {section}{\numberline {2}Klucz Publiczny}{2}{section.2}%
+\contentsline {section}{\numberline {3}Schemat podpisu elektronicznego}{3}{section.3}%
+\contentsline {section}{\numberline {4}Przykładowe ataki na schemat podpisu}{4}{section.4}%
+\contentsline {section}{\numberline {5}Właściwości systemu ElGamala i porównanie go do innych schematów podpisu i systemu kluczy publicznych.}{6}{section.5}%
+\contentsline {section}{\numberline {6}BoB i Alice - teoria}{7}{section.6}%
+\contentsline {section}{\numberline {7}Przykład działania}{9}{section.7}%
+\contentsline {section}{\numberline {8}Implementacja w języku Python}{10}{section.8}%
+\contentsline {section}{\numberline {9}Program w pythonie}{12}{section.9}%
+\contentsline {section}{\numberline {10}Bibliografia}{13}{section.10}%
